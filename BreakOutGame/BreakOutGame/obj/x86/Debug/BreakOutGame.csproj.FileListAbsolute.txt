@@ -1,0 +1,174 @@
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.csprojAssemblyReference.cache
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\BreakOutGame.exe
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\BreakOutGame.pdb
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.csproj.CopyComplete
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.exe
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.pdb
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\sPlayerTest.xnb
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\sPlayerTest1.xnb
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\sPlayerTest2.xnb
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.csprojAssemblyReference.cache
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.csproj.CoreCompileInputs.cache
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.exe
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.pdb
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\sPlayerTest1.xnb
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\sPlayerTest2.xnb
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\sPlayerTest.xnb
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\BreakOutGame.exe
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\BreakOutGame.pdb
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.csproj.CopyComplete
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\Paddle.xnb
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\ball.xnb
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\brick.xnb
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\BrickSound.xnb
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\MissSound.xnb
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\PaddleBounceSound.xnb
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\pixel.xnb
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\StartSound.xnb
+C:\Users\atgam\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\WallBounceSound.xnb
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\ball.xnb
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\brick.xnb
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\BrickSound.xnb
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\MissSound.xnb
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\Paddle.xnb
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\PaddleBounceSound.xnb
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\pixel.xnb
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\StartSound.xnb
+C:\Users\John\OneDrive - IT Center Nord\Eadania\1. semester\Visual 2017 MonoGames\BreakOut game\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\WallBounceSound.xnb
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\sPlayerTest1.xnb
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\sPlayerTest2.xnb
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\ball.xnb
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\brick.xnb
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\Paddle.xnb
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\pixel.xnb
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\sPlayerTest.xnb
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\BreakOutGame.exe
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\BreakOutGame.pdb
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.csprojAssemblyReference.cache
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.csproj.CopyComplete
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.exe
+C:\Users\tuthc\source\repos\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.pdb
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\sPlayerTest1.xnb
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\sPlayerTest2.xnb
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\ball.xnb
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\brick.xnb
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\Paddle.xnb
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\pixel.xnb
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\sPlayerTest.xnb
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\BreakOutGame.exe
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\BreakOutGame.pdb
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.csprojAssemblyReference.cache
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.csproj.CopyComplete
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.exe
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.pdb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\sPlayerTest1.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\sPlayerTest2.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\ball.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\brick.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\Paddle.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\pixel.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\sPlayerTest.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\BreakOutGame.exe
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\BreakOutGame.pdb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.csprojAssemblyReference.cache
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.csproj.CopyComplete
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.exe
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\obj\x86\Debug\BreakOutGame.pdb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\MyFont.xnb
+C:\Users\tuthc\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\MyFont.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\Background.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\BrickSound.wma
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\BrickSound.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\MissSound.wma
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\MissSound.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\PaddleBounceSound.wma
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\PaddleBounceSound.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\StartSound.wma
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\StartSound.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\WallBounceSound.wma
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\WallBounceSound.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\wav\BrickSound.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\wav\MissSound.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\wav\PaddleBounceSound.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\wav\StartSound.xnb
+C:\Users\tobia\Dropbox\BreakOutGame\BreakOutGame\bin\Windows\x86\Debug\Content\wav\WallBounceSound.xnb

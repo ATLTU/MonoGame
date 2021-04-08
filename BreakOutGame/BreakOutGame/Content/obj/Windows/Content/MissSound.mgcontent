@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/MissSound.mp3</SourceFile>
+  <SourceTime>2019-11-13T09:58:31.1017512+01:00</SourceTime>
+  <DestFile>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/bin/Windows/Content/MissSound.xnb</DestFile>
+  <DestTime>2019-11-14T12:02:43.0121551+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/bin/Windows/Content/MissSound.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

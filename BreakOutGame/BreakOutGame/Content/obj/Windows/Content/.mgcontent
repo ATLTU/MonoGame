@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/Background.jpg</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/ball.png</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/brick.png</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/BrickSound.mp3</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/MissSound.mp3</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/MyFont.spritefont</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/Paddle.png</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/PaddleBounceSound.mp3</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/pixel.png</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/sPlayerTest.png</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/StartSound.mp3</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/WallBounceSound.mp3</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/wav/BrickSound.wav</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/wav/MissSound.wav</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/wav/PaddleBounceSound.wav</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/wav/StartSound.wav</File>
+    <File>C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/wav/WallBounceSound.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

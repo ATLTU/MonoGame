@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/wav/BrickSound.wav","C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/bin/Windows/wav/BrickSound.xnb","SoundEffectProcessor","SoundEffectContent",18402,18463,0,7786918
+"C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/wav/MissSound.wav","C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/bin/Windows/wav/MissSound.xnb","SoundEffectProcessor","SoundEffectContent",186612,186673,0,3135045
+"C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/wav/PaddleBounceSound.wav","C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/bin/Windows/wav/PaddleBounceSound.xnb","SoundEffectProcessor","SoundEffectContent",14892,14953,0,3076295
+"C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/wav/StartSound.wav","C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/bin/Windows/wav/StartSound.xnb","SoundEffectProcessor","SoundEffectContent",11670,11731,0,4567917
+"C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/wav/WallBounceSound.wav","C:/Users/tobia/Dropbox/BreakOutGame/BreakOutGame/Content/bin/Windows/wav/WallBounceSound.xnb","SoundEffectProcessor","SoundEffectContent",45900,45961,0,4568269
